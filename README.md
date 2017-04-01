@@ -1,0 +1,2 @@
+# DAR
+Divides and rules
